@@ -1,17 +1,4 @@
-/******************************************************************
-*  Super amazing PS2 controller Arduino Library v1.8
-*		details and example sketch: 
-*			http://www.billporter.info/?p=240
-*
-*    Original code by Shutter on Arduino Forums
-*
-*    Revamped, made into lib by and supporting continued development:
-*              Bill Porter
-*              www.billporter.info
-*
-*	 Contributers:
-*		Eric Wetzel (thewetzel@gmail.com)
-*		Kurt Eckhardt
+
 *
 *  Lib version history
 *    0.1 made into library, added analog stick support. 
